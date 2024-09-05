@@ -8,5 +8,5 @@ you may also change the hotkey used to trigger the action by clicking Quick Buy 
 
 there is an options tab that will allow you to set the tool to always be on top of other windows, as well as a transparency bar to change the visibility of the window.
 
-#Important
+# Important
 Please be sure if you wish to use this in a multiplayer server that you ask if it's allowed before doing so, any misuse  of this tool is your own fault and backlash due to that will be of your own making.
