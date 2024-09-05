@@ -4,7 +4,9 @@ a small tool designed to help quickly buy multiples of an item from shops in the
 ![NWNHotkeys1](Docs/Screenshots/NWNHotkeys1.png) ![NWNHotkeys2](Docs/Screenshots/NWNHotkeys2.png)
 
 # Requirements
-To run this script you will need to have AutoHotkey V2 installed. after that is done you can goto [NWNHotkeys.ahk](NWNHotkeys.ahk) and either download it or copy and paste the contents into a text document and change the extention to `.ahk` when you run the file, assuming you installed AutoHotkey V2 you will see the tool pop up as shown in the images at the top of this document.
+To run the script you will need to have AutoHotkey V2 installed. after that is done you can goto [NWNHotkeys.ahk](NWNHotkeys.ahk) and either download it or copy and paste the contents into a text document and change the extention to `.ahk` when you run the file, assuming you installed AutoHotkey V2 you will see the tool pop up as shown in the images at the top of this document.
+
+Alternatively you can download the compiled `NWNHotkeys.exe` from the latest release. which will run without having Autohotkey V2 installed.
 
 # How to use
 simple to use, just run the script and the tool will open up, hover your mouse over the item you want to buy in game while the tool is running, then press `CTRL + F`. when you do this it will buy 10 of the item you had your mouse hovering over (assuming the shop has enough stock).
