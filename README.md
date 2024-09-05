@@ -1,6 +1,8 @@
 # NWNHotkeys
 a small tool designed to help quickly buy multiples of an item from shops in the game Neverwinter Nights, this was made by myself specifically for use on a multiplayer server that gave permission for this tool to be used, and so i began this project both as a learning experience and to increase my quality of life when playing. However I did also try to design this to be as user friendly as possible for all end users not just myself.
 
+![NWNHotkeys1](Docs/Screenshots/NWNHotkeys1.png) ![NWNHotkeys2](Docs/Screenshots/NWNHotkeys2.png)
+
 # How to use
 simple to use, just run the script and the tool will open up, hover your mouse over the item you want to buy in game while the tool is running, then press `CTRL + F`. when you do this it will buy 10 of the item you had your mouse hovering over (assuming the shop has enough stock).
 
