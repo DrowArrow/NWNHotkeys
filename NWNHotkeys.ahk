@@ -48,13 +48,13 @@ Constructor()
 	AOT.OnEvent("Click", AlwaysOnTop)
 	Opacity.OnEvent("Change", Op_Adjust)
 	myGui.OnEvent('Close', ExitProcedure)
-	myGui.Title := "Game Hotkeys"
+	myGui.Title := "NWNHotkeys"
 	
 	return myGui
 }
 
 ;Startup Variables Read
-WinWait("Game Hotkeys")
+WinWait("NWNHotkeys")
 	WinSetTransparent(OpLevel)
 
 	AOT_Startup := myGui.Submit(0).cb_aot
