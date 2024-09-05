@@ -25,4 +25,4 @@ The Buy Count box will only accept numbers.
 
 the hotkey will only be active and functional when the game is in focus. By setting it up this way it allows you to set a hotkey that may otherwise normally be used in other applications without interferring with them for example, `CTRL + F` is the default key combination for the find function when using a text document or using a web browser. by locking the hotkey to only being live when the game is in focus, we allow you to keep using `CTRL + F` in those other applications without needing to first close down the tool.
 
-Compiled `.exc` files **do not** require AutoHotkey V2 to be installed in order to run.
+Compiled `.exe` files **do not** require AutoHotkey V2 to be installed in order to run.
