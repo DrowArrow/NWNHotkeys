@@ -8,6 +8,9 @@ To run the script you will need to have AutoHotkey V2 installed. after that is d
 
 Alternatively you can download the compiled `NWNHotkeys.exe` from the latest release. which will run without having Autohotkey V2 installed.
 
+## Linux users
+it was brought to my attention that ahk is windows only so for linux users I made a python variant, it's not as feature rich as the ahk one but it has teh core features built in with regards to the hotkey and buy count customisation. you can find it [here](https://github.com/DrowArrow/NWNHotkeys-V2)
+
 # How to use
 simple to use, just run the script and the tool will open up, hover your mouse over the item you want to buy in game while the tool is running, then press `CTRL + F`. when you do this it will buy 10 of the item you had your mouse hovering over (assuming the shop has enough stock).
 
@@ -21,10 +24,10 @@ Please be sure if you wish to use this in a multiplayer server that you ask if i
 
 ## Notes
 
-When setting the hotkey, single keys are not permitted so as to avoid accidental activation.
+1. When setting the hotkey, single keys are not permitted so as to avoid accidental activation.
 
-The Buy Count box will only accept numbers.
+2. The Buy Count box will only accept numbers.
 
-the hotkey will only be active and functional when the game is in focus. By setting it up this way it allows you to set a hotkey that may otherwise normally be used in other applications without interferring with them for example, `CTRL + F` is the default key combination for the find function when using a text document or using a web browser. by locking the hotkey to only being live when the game is in focus, we allow you to keep using `CTRL + F` in those other applications without needing to first close down the tool.
+3. The hotkey will only be active and functional when the game is in focus. By setting it up this way it allows you to set a hotkey that may otherwise normally be used in other applications without interferring with them for example, `CTRL + F` is the default key combination for the find function when using a text document or using a web browser. by locking the hotkey to only being live when the game is in focus, we allow you to keep using `CTRL + F` in those other applications without needing to first close down the tool.
 
-Compiled `.exe` files **do not** require AutoHotkey V2 to be installed in order to run.
+4. Compiled `.exe` files **do not** require AutoHotkey V2 to be installed in order to run.
