@@ -9,7 +9,7 @@ To run the script you will need to have AutoHotkey V2 installed. after that is d
 Alternatively you can download the compiled `NWNHotkeys.exe` from the latest release. which will run without having Autohotkey V2 installed.
 
 ## Linux users
-it was brought to my attention that ahk is windows only so for linux users I made a python variant, it's not as feature rich as the ahk one but it has teh core features built in with regards to the hotkey and buy count customisation. you can find it [here](https://github.com/DrowArrow/NWNHotkeys-V2)
+it was brought to my attention that ahk is windows only so for linux users I made a python variant, it's not as feature rich as the ahk one but it has the core features built in with regards to the hotkey and buy count customisation. you can find it [here](https://github.com/DrowArrow/NWNHotkeys-V2)
 
 # How to use
 simple to use, just run the script and the tool will open up, hover your mouse over the item you want to buy in game while the tool is running, then press `CTRL + F`. when you do this it will buy 10 of the item you had your mouse hovering over (assuming the shop has enough stock).
